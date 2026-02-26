@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+# Bürgermeisterwahl Planegg 2026 – Kandidatenübersicht
+
 ## Hermann Nafziger (CSU)
 
 **Zur Person:** 62 Jahre, alleinstehend, einen Sohn. Gelernter Radio- und Fernsehtechniker-Meister, ehem. Projektmanager. Seit 2020 1. Bürgermeister, 2008–2014 3. Bürgermeister, seit 2008 Gemeinderat. Mitglied in Aufsichtsräten (ISAR Bioscience, IZB, Baugesellschaft München Land) und Kuratorium der LMU München.
